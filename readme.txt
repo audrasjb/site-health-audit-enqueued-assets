@@ -1,6 +1,5 @@
 === Site Health - Audit Enqueued Assets ===
 Contributors: audrasjb, whodunitagency
-Donate link: https://paypal.me/audrasjb
 Tags: site health, performance audit, performance test, assets, scripts
 Requires at least: 5.2
 Tested up to: 5.8
